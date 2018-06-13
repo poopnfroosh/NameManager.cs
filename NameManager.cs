@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace Oxide.Plugins
 {
-    [Info("NameManager", "Ankawi/popnfresh", "1.1.0")]
+    [Info("NameManager", "Ankawi", "1.1.0")]
     [Description("Manage names on your server")]
     class NameManager : CovalencePlugin
     {
